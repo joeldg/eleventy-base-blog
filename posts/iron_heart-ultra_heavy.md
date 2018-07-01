@@ -19,7 +19,9 @@ brand_link: https://www.ironheart.co.uk
 * Four needle, Union Special flat stitched seams
 * Sleeves are designed to be fairly tight, to help avoid wind penetration
 * XL weighs 2lb 4oz
-* One washed, so minimal or no shrinkage to be expected       
+* One washed, so minimal or no shrinkage to be expected 
+
+These guys have some insane Jeans as well.
 <p>
     <a href='{{buy_link}}'><button class="button-primary-outlined button-round">BUY ONLINE - ${{price}}</button></a>
     <a href='{{brand_link}}'><button class="button-primary-outlined button-round">VISIT WEBSITE</button></a>

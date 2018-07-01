@@ -1,5 +1,5 @@
 ---
-title: Merz B Schwanen Hooded Zip
+title: Merz Schwanen Hooded Zip
 tags:
   - loopwheeled.cotton
   - german

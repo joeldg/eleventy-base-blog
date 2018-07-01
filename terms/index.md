@@ -9,7 +9,9 @@ templateClass: tmpl-post
 
 <div class='col'><a href="/tags/loopwheeled.cotton" class='tags' size='16'><strong>Loopwheeled cotton</strong></a>
 <p>
-This is what you want, if you see a loopwheel cotton hoodie, you will be jealous of it, they are simply amazing. All high-end hoodies are made with loopwheeled cotton and they are going to set you back a bit, they are worth every penny.
+This is what you want, if you see a loopwheel cotton hoodie, you will be jealous of it, they are simply amazing. 
+
+All high-end hoodies are made with heavy loopwheeled cotton and the best are typically from Japan, they are going to set you back a bit but they are worth every penny. When you pick up a hoodie that weights 2.7lbs you know you have a good one.
 
 On most knit garments today you’ll notice seams running from the armholes down to the hem where the front and back sides were stitched together. Older sweats and those made by high end reproduction brands don’t have those seams, or any really seams at all, because the fabric is created as one whole tube in a process known as “loopwheeling”.
 

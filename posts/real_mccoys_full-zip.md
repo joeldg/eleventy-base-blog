@@ -14,16 +14,24 @@ buy_link: https://www.realmccoyslondon.com/us/joe-mccoy-10oz-sweat-parka-grey.ht
 ---
 <div class="col col-sm-8">
 
+<p>This is lighter construction than the Real McCoys Full zip (parka) one. If you live in hot climates this might be a better option.</p>    
+
 <p>It is no secret that The Real McCoy's sweatshirts have emerged as arguably the finest in the world. Made in Japan in Wakayama prefecture exclusively for Real McCoys, the 10oz cloth is produced on a vintage loom, creating a lightweight fabric which leaves a soft, durable and functional finish</p>       
 <p>
     <a href='{{buy_link}}'><button class="button-primary-outlined button-round">BUY ONLINE - ${{price}}</button></a>
     <a href='{{product_link}}'><button class="button-primary-outlined button-round">VISIT WEBSITE</button></a>
 </p>
 
-### The Real McCoy's
-<p>The Real McCoy's is a brand like no other. To many the outdated features of vintage clothing have little significance in today's modern society, but this is exactly what influences the brand. American fashion of the 1940's and 1950's is a source of great inspiration; a young country unburdened by the restrictions of traditional customs, one that’s uninhibited, rational and innovative.</p>
+### Joe McCoy
+<p><i>The same company as The Real McCoy's</i></p>
 
-<p>However, this ideology is not enough. To make extraordinary clothing with vintage details and twists requires the sensitive minds and outstanding work of craftsmen in Japan. They are highly skilled at manufacturing materials using the same methods and machinery from the past. Whilst they endeavor to create the very best reproduction, they also seek to make it even better than the original.</p>
+<p>Taking it’s cues from each changing era of the American experience in Sportswear, Denim and Workwear, Joe McCoy continues to manufacture unchanging products designed to last generations.
+
+When unraveling the cultural history woven together on the American continent, the singular contribution of one legendary figure comes quickly to mind, Joseph Getting McCoy. As the son of immigrants, Joe McCoy combined the traditions of his parents with ideas born of the the new world. he rode the mid-nineteenth century frontier wave eastward to frame with his innovate and tough brand of textiles. The arrival of work pants reinforced with copper rivets heralded the dawn of the new era. 
+
+In the early twentieth century, motorisation, prosperity and strong demand for durable goods and luxuries rapidly spread across the country. Labourers wanted tough and affordable workwear. Gatsbyian playboys wanted suits and coats of the finest materials. Not many years later this deepening polarity gave way to a bubble-bursting depression and world-changing war, followed by a radical shift in clothing needs. 
+
+The garment industry was revolutionised as government contracts poured in for innovative and functional clothing. When the dust settled, American garments were recognised round the world for their function and originality. Taking it’s cues from each changing era of the American experience in Sportswear, Denim and Workwear, Joe McCoy continues to manufacture unchanging products designed to last generations</p>
 </div>
 
 <div class="col col-sm-4 float-right">
