@@ -28,5 +28,8 @@
     "luxon": "^1.0.0",
     "markdown-it": "^8.4.1",
     "markdown-it-anchor": "^4.0.0"
+  },
+  "dependencies": {
+    "mustard-ui": "0.0.7"
   }
 }

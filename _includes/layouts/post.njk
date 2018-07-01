@@ -2,8 +2,20 @@
 layout: layouts/base.njk
 templateClass: tmpl-post
 ---
-<h1>{{ title }}</h1>
+<div class=col>
+	<h1>{{ title }}</h1>
+</div>
+
 
 {{ layoutContent | safe }}
 
+<div class=col>
 <p><a href="{{ '/' | url }}">← Home</a></p>
+</div>
+
+<h1>Tagged “{{ tags }}”</h1>
+<ol>
+{% for tag in tags %}
+  <li><a href="{{ tag.url | url }}">{{ tag }}</li>
+{% endfor %}
+</ol>
