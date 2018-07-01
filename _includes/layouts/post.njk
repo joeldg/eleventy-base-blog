@@ -1,9 +1,16 @@
 ---
 layout: layouts/base.njk
 templateClass: tmpl-post
+filter:
+    - all
+    - nav
+    - post
+    - posts
 ---
 {% for tag in tags %}
-  <a href="/tags/{{ tag }}" class="tag">{{ tag }}</a>
+	{%- if tag != "nav" -%}
+  		<a href="/tags/{{ tag }}" class="tag">{{ tag }}</a>
+  	{% endif %}
 {% endfor %}
 
 
