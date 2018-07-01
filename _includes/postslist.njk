@@ -1,19 +1,25 @@
 	<div class=col>
 		<h6>{{ subtitle or metadata.subtitle }}</h6>
 	</div>
-	
+
 	{% for post in postslist | reverse %}
 	<div class="col col-md-3">
       <div class="card">
         <h3 class="card-title"><a href="{{ post.url | url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a></h3>
         
+        {% if post.data.img %}
+        	<a href="{{ post.url | url }}">
+			<img src='/img/{{post.data.img}}' height='150'></a>
+        {% endif %}
+
     {% for tag in post.data.tags %}
       {%- if tag != "post" -%}
       {% set tagUrl %}/tags/{{ tag }}/{% endset %}
       <a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
       {%- endif -%}
     {% endfor %}
-    <span class="postlist-date">{{ post.date | readableDate }}</span>
+    <br>
+    <!-- <span class="postlist-date">{{ post.date | readableDate }}</span> -->
       </div>
     </div>
 	{% endfor %}

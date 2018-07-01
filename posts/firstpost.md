@@ -1,7 +1,6 @@
 ---
 title: This is my first post.
 tags:
-  - post
   - another-tag
   - mortag
 layout: layouts/post.njk
