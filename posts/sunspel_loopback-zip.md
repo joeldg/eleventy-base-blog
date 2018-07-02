@@ -15,7 +15,7 @@ brand_link: https://shop.merz-schwanen.com
 ---
 <div class="col col-sm-8">
 
-<p>This classic hoody been updated with a new fabric finish that gives it a plush feel, heightening the luxuriousness of this style. Part of our matching track set, the refined new hoody bears all the hallmarks of the classic style including a neat, classic fit , rib cuffs and zip closure.
+<p>This classic hoodie been updated with a new fabric finish that gives it a plush feel, heightening the luxuriousness of this style. Part of our matching track set, the refined new hoody bears all the hallmarks of the classic style including a neat, classic fit , rib cuffs and zip closure.
 
 ‘Loopback’ is the technical term given to the fabric traditionally used to make sweatshirts. It’s a literal description of the construction of the fabric that features loops on its reverse and is also a reference to the original machine that was used to knit the fabric: the loopwheel.
 

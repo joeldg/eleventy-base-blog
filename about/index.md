@@ -9,7 +9,7 @@ templateClass: tmpl-post
 <div class="col col-sm-8">   
 
 <p>
-<strong>Are people really so into hoodies they would pay more than $200 for one?</strong>
+<strong>Are people really so into hoodies they would pay more than $200 for a classic gray one?</strong>
 
 Yes and these types of hoodies are very often sold out in all the regular sizes as soon as they become available, so you will see you can buy one, but only in S, XXL or XXXL.
 </p> 

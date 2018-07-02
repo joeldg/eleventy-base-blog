@@ -17,6 +17,7 @@ You are going to notice when shopping for the hoodies that a lot of them are sol
 * <a href="https://www.firmamentberlin.com/newsletter">Firmament</a> - Direct link
 * <a href="https://www.mrporter.com">Mr. Porter</a> - In the footer.
 * <a href="http://www.peggsandson.com/contacts/">Peggs and Son</a> - "Subscribe" button at bottom.
+* <a href="https://www.endclothing.com/us/clothing/sweats-and-hoods">END clothing</a> - The newsletter should pop up in a modal.
 * <a href="https://reigningchamp.com/">Reigning Champ</a> - It should pop up.
 
 Most of the sites will have newsletters, it's often worth it to sign up to get news on sales and for new and restocked products.
