@@ -4,7 +4,7 @@ tags:
   - fleece.cotton
   - canada
   - $100-$200 
-  - high-end 
+  - mid-tier 
   - full-zip
   - 2-way-zip
 layout: layouts/post.njk

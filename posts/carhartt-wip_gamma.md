@@ -4,7 +4,7 @@ tags:
   - loopback.cotton
   - usa
   - $100-$200 
-  - high-end 
+  - mid-tier
   - pullover
 layout: layouts/post.njk
 img: carhartt-wip_gamma.jpg

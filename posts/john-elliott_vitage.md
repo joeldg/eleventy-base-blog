@@ -4,7 +4,7 @@ tags:
   - fleece.cotton
   - usa
   - $100-$200 
-  - high-end 
+  - mid-tier 
   - full-zip
   - raglan
 layout: layouts/post.njk

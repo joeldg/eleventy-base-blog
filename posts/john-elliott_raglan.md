@@ -4,7 +4,7 @@ tags:
   - loopback.cotton
   - usa
   - $200+ 
-  - high-end 
+  - mid-tier 
   - full-zip
   - raglan
 layout: layouts/post.njk
