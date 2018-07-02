@@ -1,6 +1,7 @@
 loopwheeled.cotton
+loopback.cotton
 french-terry
-cotton.fleece
+fleece.cotton
 raglan
 
 low-end
@@ -11,6 +12,7 @@ usa
 canada
 japan
 german
+england
 
 <$50
 $50-$100

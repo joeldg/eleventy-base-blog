@@ -1,7 +1,7 @@
 ---
 title: Kellsport pullover
 tags:
-  - cotton.fleece
+  - fleece.cotton
   - usa
   - $50-$100
   - mid-tier 
