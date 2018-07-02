@@ -11,6 +11,7 @@ img: real_mccoys01.jpg
 price: 183
 product_link: https://www.realmccoys.co.jp/catalog/products/detail.php?product_id=3438
 buy_link: https://www.realmccoyslondon.com/us/joe-mccoy-10oz-sweat-parka-grey.html   
+brand_link: https://www.realmccoyslondon.com/us/
 ---
 <div class="col col-sm-8">
 
@@ -19,7 +20,7 @@ buy_link: https://www.realmccoyslondon.com/us/joe-mccoy-10oz-sweat-parka-grey.ht
 <p>It is no secret that The Real McCoy's sweatshirts have emerged as arguably the finest in the world. Made in Japan in Wakayama prefecture exclusively for Real McCoys, the 10oz cloth is produced on a vintage loom, creating a lightweight fabric which leaves a soft, durable and functional finish</p>       
 <p>
     <a href='{{buy_link}}'><button class="button-primary-outlined button-round">BUY ONLINE - ${{price}}</button></a>
-    <a href='{{product_link}}'><button class="button-primary-outlined button-round">VISIT WEBSITE</button></a>
+    <a href='{{brand_link}}'><button class="button-primary-outlined button-round">VISIT WEBSITE</button></a>
 </p>
 
 ### Joe McCoy
