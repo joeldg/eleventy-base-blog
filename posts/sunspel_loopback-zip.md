@@ -4,7 +4,7 @@ tags:
   - loopback.cotton
   - england
   - $100-$200 
-  - high-end 
+  - mid-tier 
   - full-zip
 layout: layouts/post.njk
 img: sunspel01.jpg

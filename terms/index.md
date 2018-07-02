@@ -38,6 +38,9 @@ In order to get fleece fuzzy a large roller with either sandpaper or wire brushe
 <div class='col'><a href="/tags/" class='tags' size='16'><strong>raglan</strong></a>
 <p>Style of shirt where the fabric continues in one piece up to the neck of a garment, without a shoulder seam. These are often referred to as baseball shirts where the sleeves from the neck down are a different color.</p></div><br>
 
+<div class='col'><a href="/tags/" class='tags' size='16'><strong>Flatlock seams</strong></a>
+<p>Flatlock seams’ most noticeable quality is that they have almost no bulk. You can see them in stretch sportswear, where seam allowances in the inside of the garment may chaff athlete’s skin. They are typically done with specific types of sewing machines.</p></div><br>
+
 <div class='col'><a href="/tags/" class='tags' size='16'><strong>full-zip</strong></a><p>A zipper that goes all the way up the front of the hoodie.</p></div><br>
 
 

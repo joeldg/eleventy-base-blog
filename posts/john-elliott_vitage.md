@@ -3,7 +3,7 @@ title: John Elliott vintage
 tags:
   - fleece.cotton
   - usa
-  - $200+ 
+  - $100-$200 
   - high-end 
   - full-zip
   - raglan
