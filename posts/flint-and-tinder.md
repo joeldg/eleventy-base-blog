@@ -19,7 +19,7 @@ brand_link: https://huckberry.com/flint-and-tinder
 <blockquote>
 <strong>H.H. note:</strong><i> From a kickstarter, this heavyweight hoodie came to the world.
 
-The description below (from their site) lists the fabric as 23 oz fleece, which I believe is a typo and should say 13 oz fleece which is borderline heavy. Or perhaps that the whole thing is 23oz. I know it's not 23oz/yard fleece because if it was true 23oz fleece the hoodie would weight in at somewhere over 7lbs and would be suitable for the arctic circle.
+The description below (from their site) lists the fabric as 23 oz fleece, which I believe is a typo and should say 13 oz fleece which is borderline heavy. Or perhaps that the whole thing is 23oz. I know it's not 23oz/yard fleece because if it was true 23oz fleece the hoodie would weight in at somewhere over 6lbs and would be suitable for the arctic circle.
 
 Because of a few extras like the media pocket, this hoodie edges out the American Giant to enter the mid-tier
 </i>
@@ -65,25 +65,8 @@ Every stitch tells a story. As the years go on, your hoodie will become more com
     <a href='{{brand_link}}'><button class="button-primary-outlined button-round">VISIT WEBSITE</button></a>
 </p>
 
-### American Giant
-<p>American Giant is an apparel company founded
-on an audacious idea: that innovation and
-enterprise belong to all of us. Not just Silicon
-Valley. We’re investing in technology and
-engineering to produce the best of American
-Made classics--and reignite manufacturing towns
-with new jobs along the way.
-
-The apparel industry faces overwhelming competition from abroad.
-Some cheaper and faster. Some state of the art. If manufacturing is
-going to survive here, we have to be smarter. Work harder. Create a
-better product. We’ve assembled a supply chain of people and
-materials built to do just that.
-
-We’re inspired by the best of classic American style.
-We take iconic pieces and evolve them for how people
-live today, with smart construction and custom-
-developed materials.
+### Huckberry / Flint and Tinder
+<p>When we brought Flint and Tinder into the Huckberry family, we asked F&T's head designer to radically improve the 10-Year Hoodie. Why mess with a product that raised a cool million on Kickstarter and has already earned a legion of fans and five-star reviews? Well, we believe that success breeds complacency, and complacency breeds failure. So we took our golden hoodie back to the drawing board. We switched to an insanely comfortable fabric. We upgraded the metal hardware. We perfected the structured fit. And just like the OG version, we made it entirely in America and kept it under a hundred bucks. It's why the 10-Year Hoodie isn't a cost but an investment. A 10-Year investment in your closet. A 10-Year investment in America. And it's why we can't keep these bad boys in stock.
 
  ﻿</p>
 

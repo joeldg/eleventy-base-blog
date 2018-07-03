@@ -9,9 +9,9 @@ tags:
 layout: layouts/post.njk
 img: sunspel01.jpg
 price: 195
-product_link: https://shop.merz-schwanen.com/collections/sweats/products/17694636?variant=19949925767
-buy_link: https://shop.merz-schwanen.com/collections/sweats/products/17694636?variant=19949925767 
-brand_link: https://shop.merz-schwanen.com
+product_link: https://www.sunspel.com/us/mens-cotton-loopback-zip-hoody-in-grey-melange-mhod1517.html
+buy_link: https://www.sunspel.com/us/mens-cotton-loopback-zip-hoody-in-grey-melange-mhod1517.html 
+brand_link: https://www.sunspel.com
 ---
 <div class="col col-sm-8">
 

@@ -28,16 +28,19 @@ The thread has not really been updated and some of the links are out of date. Al
 <p>
 
 ## scoring    
-My scoring system for how to tier a hoodie is as follows.
 
-#### high-end
-These need to be loopwheeled cotton, these are the best of the best, the sweatshirts that make women hot and guys jealous, these are sold out half the time and are usually ordered from Japan. 
-
-#### mid-tier
-Hoodies fitting into this tier are hoodies which are excellent in their own right and may over $200, they are made with super-thick fleece and are 100% cotton. These are typically really good quality however, are not loopwheeled cotton fabric which keeps them from being listed in the high-end.
+Lets just start by saying that "None of the hoodies here are crap", I would wear anyt of them. That said, I have preferences and so my steep scoring system for how to tier a hoodie is as follows.
 
 #### low-end
-These are hoodies that you can find typically in regular stores, some are online order only. Many of these are great everyday hoodies, but they will typically be lighter fabric than the mid-tier and will not last a long time.
+<strong>Typically $30-$120</strong>: The bottom rung here you may have a few of these blended cotton and polyester pieces in your front closet. The top rung are all order online and will be 100% cotton or high percentage cotton blends. Many of these are really great everyday hoodies that will last a long time, they just don't have the details needed for a mid-tier hoodie. 
+
+The <a href='/toplists/'>top five</a> low end hoodies are the heaviest fabric of the bunch and are exceptional quality and value, they are worth it to get. If you are on a budget or just curious about this 'fancy hoodie' thing, start there, you will be plenty happy.
+
+#### mid-tier
+<strong>Typically over $100</strong>: Hoodies fitting into this tier are hoodies which are excellent in their own right and may cost over $200, they are made with thick fleece or terry and should be 100% cotton. Hoodies in this tier often will be 13oz fabric and have flatlocked seams and two-way zippers. These are typically really good quality with great details but are not loopwheeled cotton fabric which keeps them from being listed in the high-end. 
+
+#### high-end
+<strong>Typically over $200</strong>: These need to be loopwheeled cotton which has a specific feel and weight that makes these the best of the best. Loopwheeled cotton is all done on vintage machines which are only in two places in the world, Japan and Germany. These are the sweatshirts that make women hot and guys jealous. They are almost always sold out and you are probably going to have to order one of them from Japan. You want these and when you wear them, everyone else wants them too. 
 </p>    
 
 <p>This site is built and hosted using <a href="https://mustard-ui.com/docs/typography/">mustard UI</a>, <a href="https://www.11ty.io/">eleventy</a>, and <a href="https://www.netlify.com/">netlify</a></p>

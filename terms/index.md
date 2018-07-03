@@ -10,9 +10,11 @@ templateClass: tmpl-post
 <div class='col'><a href="/tags/" class='tags' size='16'><strong>Ounce ratings (10oz, 8oz, 13oz)</strong></a>
 <p>This is a fabric weight per square yard. Saying that 16oz=1 imperial pound, and each hoodie takes two to three yards of fabric (depending on size) then a lightweight hoodie will come in around 1lb and some of the heavier ones will come in closer to 3lbs
 
-* lightweight/microfleece 100 200-240 7 TO 8.5
-* medium/regular weight   200 320-380 11 TO 13.5
-* heavy weight    300 400 & OVER  14 TO 17
+Commonly you will see these as '300 weight fleece'     
+
+* 100 lightweight/microfleece 200-240 7oz TO 8.5
+* 200 medium/regular weight  320-380 11oz TO 13.5
+* 300-400+ heavy weight 400+  14oz TO 17
 
 </p></div><br>
 
@@ -52,6 +54,10 @@ Ring-spun cotton, on the other hand, is completely different. Ring-spun yarn is 
 
 <div class='col'><a href="/tags/" class='tags' size='16'><strong>raglan</strong></a>
 <p>Style of shirt where the fabric continues in one piece up to the neck of a garment, without a shoulder seam. These are often referred to as baseball shirts where the sleeves from the neck down are a different color.</p></div><br>
+
+<div class='col'><a href="/tags/" class='tags' size='16'><strong>Interlock knit</strong></a>
+<p>
+Interlock fabric is a variation of rib knit construction. Similar to a jersey knit except both front and back of the fabric look identical. Double knit construction makes this a thicker knit fabric. Interlock is the tightest knit, gives the smoothest surface and the finest hand. The fabric is extremely soft, firm and absorbent. Uses:  High-end tee shirts, tanks, camisoles, bridal wear, receiving blankets, babies' layette items, adult and children's dresses.</p></div><br>
 
 <div class='col'><a href="/tags/" class='tags' size='16'><strong>Flatlock seams</strong></a>
 <p>Flatlock seams’ most noticeable quality is that they have almost no bulk. You can see them in stretch sportswear, where seam allowances in the inside of the garment may chaff athlete’s skin. They are typically done with specific types of sewing machines.</p></div><br>

@@ -9,14 +9,20 @@ tags:
   - 2-way-zip
 layout: layouts/post.njk
 img: regningchamp.jpg
-price: 120
+price: 160
 product_link: https://shop.reigningchamp.com/products/fw17-lightweight-full-zip-hoodie-h-grey
-buy_link: https://shop.reigningchamp.com/products/fw17-lightweight-full-zip-hoodie-h-grey
+buy_link: https://amzn.to/2tSZyt7
 brand_link: https://reigningchamp.com
 ---
 <div class="col col-sm-8">
 
-Lightweight Terry is engineered for mild climates and precise layering. This classic zip hoodie is built with a two-way YKK zipper, set-in/raglan sleeves and flatlocked seams. Finished with rib-bound front patch pockets, and premium rib at the cuffs and hem.
+<p>
+<blockquote>
+<strong>H.H. note:</strong><i>Reigning Champ is one of those brands that gets a lot of airplay. Their standard lightweight hoodies are great at keeping you cool, and the mid-weight will keep you comfortable, but where RC shines is their bonded interlock 100% cotton series, it is exceptionally fine material (both linked below). All the flatlock seams and little details like the two-way YKK zippers on all pieces is a major plus.</i>
+</blockquote>
+</p>    
+
+Our signature zip hoodie, made in Canada from premium quality Midweight Terry. Built with low abrasion flatlocked seams, set-in/raglan sleeves and durable 100% cotton rib. Heavy gauge two-way YKK zipper is finished with a monogrammed zipper pull.
 
 * Flatlocked seams
 * Set-in / raglan sleeves
@@ -34,6 +40,8 @@ Lightweight Terry is engineered for mild climates and precise layering. This cla
 <p>
     <a href='{{buy_link}}'><button class="button-primary-outlined button-round">BUY ONLINE - ${{price}}</button></a>
     <a href='{{brand_link}}'><button class="button-primary-outlined button-round">VISIT WEBSITE</button></a>
+
+<a href='https://shop.reigningchamp.com/collections/mens-tops/products/bonded-interlock-full-zip-hoodie-heather-grey'><button class="button-primary-outlined button-round">Bonded Interlock knit version $230</button></a>
 </p>
 
 ### Reigning Champ

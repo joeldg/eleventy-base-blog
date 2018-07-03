@@ -13,9 +13,9 @@ templateClass: tmpl-post
 ### Top 5 low-end
 You just want the best hoodie for the money. You probably won't be wearing this for a lifetime but these should comfortable and they should last. The best of these are still all thicker than a standard hoodie.
 
-1. <a href='/posts/american_giant/'>American Giant</a>
-2. <a href='/posts/los_angeles_apparel/'>Los Angeles apparel 14oz</a>
-3. <a href=''></a>
+1. <a href='/posts/american_giant/'>American Giant</a> - So close to mid-tier, nice weight, just missing a few details
+2. <a href='/posts/los_angeles_apparel/'>Los Angeles apparel 14oz</a> - 14oz is heavy.
+3. <a href='/posts/arborwear/'>Arborwear double-thick</a> - 5.8lbs hoodie.
 4. <a href=''></a>
 5. <a href=''></a>
 
@@ -31,11 +31,11 @@ You want a hoodie that you can wear for years and you will love, be careful peop
 ### Top 5 high-end
 You want one of the best hoodies on the planet and everyone will want one and ask where you got it, never ever loan one of these out, you will never see it again.
 
-1. <a href='/real_mccoys_full-zip-parka/'>Real McCoy's Full-zip</a>
-2. <a href='/posts/iron_heart-ultra_heavy/'>Iron Heart Ultra heavy</a>
-3. <a href='/posts/strike-gold/'>The Strike Gold</a>
-4. <a href='/posts/merz-schwanen-fullzip/'>Merz B Schwanen full-zip</a>
-5. <a href='/posts/loopwheeler/'>Loopwheeler</a>
+1. <a href='/real_mccoys_full-zip-parka/'>Real McCoy's Full-zip</a> - This is the best of the best.
+2. <a href='/posts/iron_heart-ultra_heavy/'>Iron Heart Ultra heavy</a> - made for motorcycling.
+3. <a href='/posts/strike-gold/'>The Strike Gold</a> - Thick and lush
+4. <a href='/posts/merz-schwanen-fullzip/'>Merz B Schwanen full-zip</a> - German loopwheeled hoodie.
+5. <a href='/posts/loopwheeler/'>Loopwheeler</a> - The most famous of all hoodie makers.
 
 
 
