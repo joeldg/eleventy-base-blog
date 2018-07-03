@@ -17,7 +17,7 @@ brand_link: https://losangelesapparel.net/
 
 <p>
 <blockquote>
-<strong>H.H. note:</strong><i> This 14oz fleece hoodie is the heaviest I have found.
+<strong>H.H. note:</strong><i> This 14oz fleece hoodie is the heaviest low-end hoodie I have found the <a href='/posts/iron_heart-ultra_heavy/'>Iron Heart Ultra heavy</a> is the only other 14oz.
 
 </i>
 </blockquote>
