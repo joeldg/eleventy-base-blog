@@ -7,6 +7,15 @@ navtitle: Terminology
 templateClass: tmpl-post
 ---
 
+<div class='col'><a href="/tags/" class='tags' size='16'><strong>Ounce ratings (10oz, 8oz, 13oz)</strong></a>
+<p>This is a fabric weight per square yard. Saying that 16oz=1 imperial pound, and each hoodie takes two to three yards of fabric (depending on size) then a lightweight hoodie will come in around 1lb and some of the heavier ones will come in closer to 3lbs
+
+* lightweight/microfleece 100 200-240 7 TO 8.5
+* medium/regular weight   200 320-380 11 TO 13.5
+* heavy weight    300 400 & OVER  14 TO 17
+
+</p></div><br>
+
 <div class='col'><a href="/tags/loopwheeled.cotton" class='tags' size='16'><strong>Loopwheeled cotton</strong></a>
 <p>
 This is what you want, if you see a loopwheel cotton hoodie, you will be jealous of it, they are simply amazing. 
@@ -34,6 +43,12 @@ Instead the loops are left untouched.</p></div><br>
 <p>Cotton fleece is middleweight and helps to keep you warm it's 100% Polyester or Cotton/Polyester Blend. 
 
 In order to get fleece fuzzy a large roller with either sandpaper or wire brushes is rolled over the knitted yarn loops until the yarns and fibers become curly and soft.</p></div><br>
+
+
+<div class='col'><a href="/tags/" class='tags' size='16'><strong>Ringspun cotton</strong></a>
+<p>The processes for creating regular cotton and ring-spun cotton are totally different. Regular cotton is made from soft vegetable fibers that are twisted together to make yarn, which is then woven to make material. Most of the industry standard t-shirts, such as Gildan, Hanes, Fruit of the Loom, and other major mills, provide regular cotton t-shirts. Regular cotton is less expensive to make, which means "profits".
+
+Ring-spun cotton, on the other hand, is completely different. Ring-spun yarn is made by twisting and thinning the cotton strands to make a very fine, strong, soft rope of cotton fibers. Ring-spun cotton t-shirts are more durable and last longer than their regular counterparts, but will also be more expensive, too.</p></div><br>
 
 <div class='col'><a href="/tags/" class='tags' size='16'><strong>raglan</strong></a>
 <p>Style of shirt where the fabric continues in one piece up to the neck of a garment, without a shoulder seam. These are often referred to as baseball shirts where the sleeves from the neck down are a different color.</p></div><br>

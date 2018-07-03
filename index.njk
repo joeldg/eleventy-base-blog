@@ -12,8 +12,8 @@ navtitle: Home
 {% set postslist = posts %}
 {% include "postslist.njk" %}
 
-<ul class="pagination">
-	<li><a href='{{ pagination.previousPageLink }}'>prev</a></li>
+<ul class="pagination clearfix">
+	<li><a href='{{ pagination.previousPageLink }}'>< prev</a></li>
 
 	{% for i in range(0, 15) -%}
 		{%- if pagination.pageLinks[i] -%}
@@ -21,5 +21,5 @@ navtitle: Home
   		{% endif %}
 	{%- endfor %}
 
-	<li><a href='{{ pagination.nextPageLink }}'>next</a></li>
+	<li><a href='{{ pagination.nextPageLink }}'>next > </a></li>
 </ul>

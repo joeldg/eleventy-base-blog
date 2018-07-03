@@ -8,7 +8,7 @@ tags:
   - full-zip
   - 2-way-zip
 layout: layouts/post.njk
-img: todd-snyder+champion.jpg
+img: todd-snyder_champion.jpg
 price: 178
 product_link: https://www.toddsnyder.com/products/full-zip-hoodie-salt-and-pepper
 buy_link: https://www.toddsnyder.com/products/full-zip-hoodie-salt-and-pepper 
