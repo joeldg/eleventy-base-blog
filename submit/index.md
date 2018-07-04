@@ -14,11 +14,13 @@ templateClass: tmpl-post
 
 Add your email here and please post a link to the hoodie.
 
-<i>NOTE 1: There are millions of hoodies out there, I am mostly interested in high-end (>$100) and even some mid-tier (>$50) hoodies. 
+<i>NOTE 1: There are millions of hoodies out there, I am mostly interested in high-end (>$100) and even some mid-tier (>$50) full-zip hoodies. 
+
+If there is only a pullover version I can add them, but prefer tubular construction which is typically going to only be high-end.
 
 Typically I only will link to the classic 'full-zip heather-gray' version of the hoodie. Most retailers will have multiple colors, so please don't send links to every color. 
 
-NOTE 2: as cool as some designer hoodies are, and yes I've seen some up to $3,000 for a hoodie, they are usually not heavy fabric and are at best 'mid-tier' unless made of loopwheeled cotton.  If they don't have a basic grey without print then I probably won't list them.
+NOTE 2: as cool as some designer hoodies are, and yes I've seen some up to $3,000 for a hoodie, they are usually not heavy fabric and are at best 'mid-tier' unless made of loopwheeled cotton.  If they don't have a basic grey <srong>without</srong> print then I probably won't list them.
 </i>  
 
 Thank you so much!

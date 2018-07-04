@@ -22,6 +22,11 @@ You are going to notice when shopping for the hoodies that a lot of them are sol
 
 Most of the sites will have newsletters, it's often worth it to sign up to get news on sales and for new and restocked products.
 
+<h4>You can use an ordering proxy</h4>
+Click <a href="https://sutocorp.com/">here for SutoCorp</a> Online Proxy Service from eBay USA, Japan, Australia, Singapore, Hongkong, China, Korea, U.K, Germany, Malaysia, Taiwan
+
+<h4>Several online stores</h4>
+<a href="http://zozo.jp/">Zozotown</a>,  <a href="https://global.rakuten.com/en/?l-id=gs_global_search_logo">Rakuten</a>, or <a href="http://store.bshop-inc.com/shop/ec/item/list/category_id/49/stock_available/1/has_stock/true">B-shop</a> 
 
 <h4>Yes, you can shop amazon.co.jp</h4>
 Click <a href="https://ridwankhan.com/buying-and-shipping-using-amazon-co-jp-and-tenso-com-from-the-united-states-77f8ec62a92a">here</a> for some instructions. And <a href="https://www.youtube.com/watch?v=0xBgOdZxMUU">here is a video</a> showing how to do it.
