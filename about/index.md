@@ -21,9 +21,15 @@ The thread has not really been updated and some of the links are out of date. Al
 </p>
 <p>My goal with this site is that I hope it helps with your search for the best hoodie in the world, or at least the best hoodie for your budget -or- for right now.</p>
 
-<p>As a hoodie affectionado, I currently have about thirty hoodies and during a recent move I given away nearly twenty (yes, I had almost fifty hoodies). I have paid everything from $10 to over $200 for a hoodie. </p>
+<p>
+    As a hoodie affectionado, I currently have about thirty hoodies and during a recent move I given away nearly twenty (yes, I had almost fifty hoodies). I have paid everything from $10 to over $200 for a hoodie.
 
-<p>hoodiehunt.com is a place for me to add new hoodies as I find them and to organize hoodies by tags so you can find the hoodie you are looking for.</p>
+    I have multiple hoodies that are no longer for sale.
+</p>
+
+<p>
+    hoodiehunt.com is a place for me to add new hoodies as I find them and to organize hoodies by tags so you can find the hoodie you are looking for.
+</p>
 
 <p>
 

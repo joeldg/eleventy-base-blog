@@ -16,8 +16,8 @@ You just want the best hoodie for the money. You probably won't be wearing this 
 1. <a href='/posts/american_giant/'>American Giant</a> - So close to mid-tier, nice weight, just missing a few details
 2. <a href='/posts/los_angeles_apparel/'>Los Angeles apparel 14oz</a> - 14oz is heavy.
 3. <a href='/posts/arborwear/'>Arborwear double-thick</a> - 5.8lbs hoodie.
-4. <a href=''></a>
-5. <a href=''></a>
+4. <a href='/posts/left_field/'>Left Field New York</a> - Super heavy classic New York hoodie.
+5. <a href='/posts/champion_japan/'>Champion Japan</a> - If you can find your size
 
 ### Top 5 mid-tier
 You want a hoodie that you can wear for years and you will love, be careful people will want to borrow these.
