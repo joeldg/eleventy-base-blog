@@ -10,6 +10,7 @@ templateClass: tmpl-post
 
 <p>
 
+
 ### Top 5 low-end
 You just want the best hoodie for the money. You probably won't be wearing this for a lifetime but these should comfortable and they should last. The best of these are still all thicker than a standard hoodie.
 
@@ -29,6 +30,8 @@ You want a hoodie that you can wear for years and you will love, be careful peop
 5. <a href=''></a>
 
 ### Top 5 high-end
+These are nearly impossible to get in larger sizes. 
+
 You want one of the best hoodies on the planet and everyone will want one and ask where you got it, never ever loan one of these out, you will never see it again.
 
 1. <a href='/real_mccoys_full-zip-parka/'>Real McCoy's Full-zip</a> - This is the best of the best.
