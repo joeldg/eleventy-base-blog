@@ -10,6 +10,10 @@ templateClass: tmpl-post
 
 <p>
 
+### Best overall hoodie under $100 (deal)  
+
+1. <a href="/posts/everlane/">Everlane classic</a> - These are easily $120 hoodies and they have a "Choose what you pay" model in the online shop, the lowest-option is $65. These hoodies have <a href="http://www.businessinsider.com/best-hoodie-zip-up-sweatshirt-for-men-everlane-2016-4">topped</a> <a href="https://www.gq.com/story/daily-endorsement-everlane-french-terry-hoodie">multiple</a> 'best hoodie under $100' articles and lists.
+
 
 ### Top 5 low-end
 You just want the best hoodie for the money. You probably won't be wearing this for a lifetime but these should comfortable and they should last. The best of these are still all thicker than a standard hoodie.

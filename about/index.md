@@ -23,9 +23,9 @@ The thread has not really been updated and some of the links are out of date. Al
 <p>My goal with this site is that I hope it helps with your search for the best hoodie in the world, or at least the best hoodie for your budget -or- for right now.</p>
 
 <p>
-    As a hoodie affectionado, I currently have about thirty hoodies and during a recent move I given away nearly twenty (yes, I had almost fifty hoodies). I have paid everything from $10 to over $200 for a hoodie.
+As a hoodie affectionado, I currently have about thirty hoodies and during a recent move I given away nearly twenty (yes, I had almost fifty hoodies). I have paid everything from $10 to over $200 for a hoodie.
 
-    I have multiple hoodies that are no longer available for sale now.
+I have multiple hoodies that are no longer available for sale now, particularly from LLBean which seems to have dropped their old Iron Works line and I check each year to see if these have returned to the online store.
 </p>
 
 <p>

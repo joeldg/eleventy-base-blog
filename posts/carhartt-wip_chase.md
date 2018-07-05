@@ -17,6 +17,13 @@ brand_link: https://us.carhartt-wip.com/collections/mens-sweats
 <div class="col col-sm-8">
 
 <p>
+<blockquote>
+<strong>H.H. note:</strong><i>Carhartt WIP (work in progress) line is their special line, this is the good stuff they make. 
+These are <strong>substantially</strong> better hoodies than the regular Carhartt</i>
+</blockquote>
+</p> 
+
+<p>
 Classic Carhartt heavy duty full zip hoodie.
 
 * 58/42% Cotton/Polyester Heavy Sweat, 13 oz
