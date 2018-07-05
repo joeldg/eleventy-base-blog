@@ -1,7 +1,7 @@
 ---
 title: Goodwear
 tags:
-  - french-terry
+  - terry
   - usa
   - $50-$100
   - low-end 

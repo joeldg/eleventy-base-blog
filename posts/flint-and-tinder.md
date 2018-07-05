@@ -1,7 +1,7 @@
 ---
 title: Flint and Tinder 10 year
 tags:
-  - fleece.cotton
+  - fleece
   - usa
   - $50-$100
   - mid-tier 

@@ -1,7 +1,7 @@
 ---
 title: Carhartt WIP gamma
 tags:
-  - loopback.cotton
+  - loopback
   - usa
   - $100-$200 
   - mid-tier

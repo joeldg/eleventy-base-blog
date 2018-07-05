@@ -1,7 +1,7 @@
 ---
 title: J.Crew brushed fleece zip
 tags:
-  - french-terry
+  - terry
   - japan
   - $50-$100
   - low-end 

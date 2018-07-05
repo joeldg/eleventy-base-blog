@@ -1,7 +1,7 @@
 ---
 title: Left Field New York
 tags:
-  - french-terry
+  - terry
   - usa
   - $100-$200
   - mid-tier

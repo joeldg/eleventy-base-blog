@@ -1,7 +1,7 @@
 ---
 title: Loopwheeler 
 tags:
-  - loopwheeled.cotton
+  - loopwheeled
   - japan
   - $100-$200 
   - high-end 

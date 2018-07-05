@@ -1,9 +1,9 @@
 ---
 title: Uniqlo Full-Zip
 tags:
-  - fleece.cotton
+  - fleece
   - japan
-  - <$50
+  - under $50
   - low-end
   - full-zip
   - 2-way-zip

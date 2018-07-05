@@ -1,7 +1,7 @@
 ---
 title: John Elliott vintage
 tags:
-  - fleece.cotton
+  - fleece
   - usa
   - $100-$200 
   - mid-tier 

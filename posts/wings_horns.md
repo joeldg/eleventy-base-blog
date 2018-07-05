@@ -1,7 +1,7 @@
 ---
 title: Wings+Horns
 tags:
-  - fleece.cotton
+  - fleece
   - canada
   - $100-$200
   - mid-tier

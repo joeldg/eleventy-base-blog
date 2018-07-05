@@ -1,7 +1,7 @@
 ---
 title: Todd Snyder + Champion
 tags:
-  - fleece.cotton
+  - fleece
   - canada
   - $100-$200 
   - mid-tier 

@@ -18,6 +18,7 @@ You are going to notice when shopping for the hoodies that a lot of them are sol
 * <a href="https://www.blueowl.us/">Blue Owl</a> - at the bottom
 * <a href="https://www.thebureaubelfast.com/">The Bureau Belfast</a> - at the bottom
 * <a href="https://www.jinji.fr/en/10000008-sweatshirts">Jinji</a> - at the bottom
+* <a href="https://unionmadegoods.com/">Unionmade</a> - Bottom-left
 * <a href="https://www.mrporter.com">Mr. Porter</a> - In the footer.
 * <a href="http://www.peggsandson.com/contacts/">Peggs and Son</a> - "Subscribe" button at bottom.
 * <a href="https://www.endclothing.com/us/clothing/sweats-and-hoods">END clothing</a> - The newsletter should pop up in a modal.

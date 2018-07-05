@@ -1,7 +1,7 @@
 ---
 title: Everlane classic zip
 tags:
-  - french-terry
+  - terry
   - vietnam
   - $50-$100
   - low-end 
@@ -17,7 +17,10 @@ brand_link: https://www.everlane.com
 
 <p>
 <blockquote>
-<strong>H.H. note:</strong><i>Everlane has some great gear and the online prices are usually about 50%, plus they have a "choose what you pay" on newer items like the <a href="https://www.everlane.com/products/mens-cashmere-hoodie3-navy">cashmere hoodie</a>. This particular hoodie is straight fit and pretty slim.</i>
+<strong>H.H. note:</strong><i>Everlane has some great gear and the online prices are usually about 50%, plus they have a "choose what you pay" on newer items like the <a href="https://www.everlane.com/products/mens-cashmere-hoodie3-navy">cashmere hoodie</a>. This particular hoodie is straight fit and pretty slim.
+
+This hoodie has been #1 on a few "best hoodie under $100" lists.
+</i>
 </blockquote>
 </p>    
 

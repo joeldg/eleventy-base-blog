@@ -1,9 +1,9 @@
 ---
 title: Merz Schwanen Hooded Zip
 tags:
-  - loopwheeled.cotton
+  - loopwheeled
   - german
-  - $200+ 
+  - over $200
   - high-end 
   - full-zip
 layout: layouts/post.njk

@@ -1,7 +1,7 @@
 ---
 title: The Strike Gold Heavy zip
 tags:
-  - loopwheeled.cotton
+  - loopwheeled
   - japan
   - $100-$200
   - high-end 

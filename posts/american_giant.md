@@ -1,7 +1,7 @@
 ---
 title: American Giant
 tags:
-  - fleece.cotton
+  - fleece
   - usa
   - $50-$100
   - low-end 

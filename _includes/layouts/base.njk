@@ -4,38 +4,56 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>{{ title or metadata.title }} - hoodie</title>
-		<link rel="stylesheet" href="{{ '/css/index.css' | url }}">
-		<link rel="stylesheet" href="{{ '/css/prism-base16-monokai.dark.css' | url }}">
-		<link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
-		<link rel="stylesheet" href="https://unpkg.com/mustard-ui@latest/dist/css/mustard-ui.min.css">
+		<link rel="stylesheet" href="/css/font.css">
+
+		<!-- UIkit CSS -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.8/css/uikit.min.css" />
+
+		<!-- UIkit JS -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.8/js/uikit.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.8/js/uikit-icons.min.js"></script>
 	</head>
 	<body>
-	<nav><div class="nav-container">
-        <div class="nav-logo align-left">
-            <h1><a href="/">Hoodie Hunt </a></h1>
-        </div>
-        <ul class="nav-links">
+		<nav class="uk-navbar-container" uk-navbar>
+    <div class="uk-navbar-top">
+    	<h1><a href="/"><svg width='200' viewBox="0 0 160 160" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg_null"><defs><path d="M127.645 108.3c-0.456 0.75 -0.929 1.489 -1.419 2.215l-6.515 -6.515l3.633 0l4.301 4.3zm1.209 -2.093l-2.207 -2.207l3.353 0c-0.366 0.745 -0.748 1.481 -1.146 2.207zm-76.961 -73.658l23.451 23.451l-3.633 0l-22.07 -22.07c0.74 -0.477 1.49 -0.938 2.252 -1.381zm2.127 -1.176c7.752 -4.069 16.594 -6.373 25.98 -6.373c21.99 0 40.997 12.65 50 31l-51.353 0l-24.627 -24.627zm70.839 81.077c-0.513 0.695 -1.043 1.377 -1.588 2.046l-10.496 -10.496l3.634 0l8.45 8.45zm-77.185 -77.185l20.735 20.735l-3.634 0l-19.183 -19.184c0.681 -0.532 1.375 -1.05 2.082 -1.55zm74.08 81.016c-0.569 0.641 -1.153 1.269 -1.75 1.883l-14.164 -14.164l3.633 0l12.28 12.28zm-77.98 -77.98l17.699 17.699l-3.633 0l-15.986 -15.985c0.627 -0.586 1.267 -1.157 1.92 -1.714zm74.566 81.502c-0.624 0.588 -1.26 1.163 -1.91 1.722l-17.526 -17.525l3.633 0l15.803 15.803zm-78.157 -78.157l14.354 14.354l-3.633 0l-12.48 -12.48c0.571 -0.638 1.158 -1.263 1.759 -1.874zm74.436 81.372c-0.678 0.536 -1.37 1.056 -2.073 1.56l-20.578 -20.578l3.633 0l19.018 19.018zm-77.72 -77.721l10.702 10.703l-3.633 0l-8.666 -8.666c0.516 -0.692 1.048 -1.37 1.596 -2.037zm73.687 80.624c-0.737 0.482 -1.486 0.947 -2.248 1.395l-23.316 -23.316l3.643 0l21.921 21.92zm-76.66 -76.66l6.74 6.739l-3.644 0l-4.528 -4.528c0.46 -0.75 0.937 -1.487 1.432 -2.212zm72.294 79.24c-7.81 4.147 -16.737 6.499 -26.22 6.499c-21.99 0 -40.997 -12.65 -50 -31l51.72 0l24.5 24.5zm-74.944 -74.944l2.444 2.443l-3.72 0c0.405 -0.826 0.831 -1.64 1.276 -2.443z" id="69af2f67-15f6-4151-8b6b-ef2b9096e37f"></path></defs><g id="root" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><rect id="background" fill="" x="0" y="0" width="160" height="160"></rect><path d="M80 143c34.794 0 63 -28.206 63 -63c0 -34.794 -28.206 -63 -63 -63c-34.794 0 -63 28.206 -63 63c0 34.794 28.206 63 63 63zm0 3c-36.45 0 -66 -29.55 -66 -66c0 -36.45 29.55 -66 66 -66c36.45 0 66 29.55 66 66c0 36.45 -29.55 66 -66 66z" id="shape.secondary" fill="#ff304f" fill-rule="nonzero"></path><path d="M80 147c37.003 0 67 -29.997 67 -67c0 -37.003 -29.997 -67 -67 -67c-37.003 0 -67 29.997 -67 67c0 37.003 29.997 67 67 67zm0 3c-38.66 0 -70 -31.34 -70 -70c0 -38.66 31.34 -70 70 -70c38.66 0 70 31.34 70 70c0 38.66 -31.34 70 -70 70z" id="shape.secondary" fill="#ff304f" fill-rule="nonzero"></path><mask id="mask-2" fill="#fff"><use xlink:href="#69af2f67-15f6-4151-8b6b-ef2b9096e37f"></use></mask><use id="shape.secondary" fill="#ff304f" xlink:href="#69af2f67-15f6-4151-8b6b-ef2b9096e37f"></use><g id="Group" transform="translate(28.000000, 60.000000)"><rect id="Rectangle-2" x="0" y="0" width="104" height="24"></rect><text id="headerText.accent" font-family="Oleo Script" font-size="19.704452941902062" font-weight="700" line-spacing="24" fill="#0e2f56" data-text-alignment="C" font-style="normal" letter-spacing="NaN"><tspan x="-0.0078125" y="20">Hoodie Hunt</tspan></text></g><g id="Group-2" transform="translate(28.000000, 86.000000)"><rect id="Rectangle-3" x="0" y="0" width="104" height="14"></rect><text id="captionText.secondary" font-family="Oleo Script" font-size="7.4493564633463905" font-weight="400" fill="#ff304f" data-text-alignment="c" font-style="normal" letter-spacing="NaN"><tspan x="0.015625" y="9">The perfect hoodie is here somewhere</tspan></text></g><path d="M77 110l0.84 2.116l2.16 0.19l-1.62 1.483l0.48 2.211l-1.86 -1.168l-1.86 1.168l0.48 -2.21l-1.62 -1.484l2.16 -0.221l0.84 -2.085zm-10 0l0.84 2.116l2.16 0.19l-1.62 1.483l0.48 2.211l-1.86 -1.168l-1.86 1.168l0.48 -2.21l-1.62 -1.484l2.16 -0.221l0.84 -2.085zm-10 0l0.84 2.116l2.16 0.19l-1.62 1.483l0.48 2.211l-1.86 -1.168l-1.86 1.168l0.48 -2.21l-1.62 -1.484l2.16 -0.221l0.84 -2.085zm-10 0l0.84 2.116l2.16 0.19l-1.62 1.483l0.48 2.211l-1.86 -1.168l-1.86 1.168l0.48 -2.21l-1.62 -1.484l2.16 -0.221l0.84 -2.085z" id="shape" fill="#FFF" fill-rule="nonzero"></path><path d="M113 44l0.84 2.116l2.16 0.19l-1.62 1.483l0.48 2.211l-1.86 -1.168l-1.86 1.168l0.48 -2.21l-1.62 -1.484l2.16 -0.221l0.84 -2.085zm-10 0l0.84 2.116l2.16 0.19l-1.62 1.483l0.48 2.211l-1.86 -1.168l-1.86 1.168l0.48 -2.21l-1.62 -1.484l2.16 -0.221l0.84 -2.085zm-10 0l0.84 2.116l2.16 0.19l-1.62 1.483l0.48 2.211l-1.86 -1.168l-1.86 1.168l0.48 -2.21l-1.62 -1.484l2.16 -0.221l0.84 -2.085zm-10 0l0.84 2.116l2.16 0.19l-1.62 1.483l0.48 2.211l-1.86 -1.168l-1.86 1.168l0.48 -2.21l-1.62 -1.484l2.16 -0.221l0.84 -2.085z" id="shape" fill="#FFF" fill-rule="nonzero"></path></g></svg></a></h1>
+
+    	<div class="uk-padding">
         	{%- for nav in collections.nav | reverse -%}
-				<li><a class="{% if nav.url == page.url %}active{% endif %}" href="{{ nav.url | url }}">{{ nav.data.navtitle }}</a></li>
+        	<a class="{% if nav.url == page.url %}uk-active{% else %}uk-parent{% endif %}" href="{{ nav.url | url }}"><button class="uk-button uk-button-default uk-button-small">{{ nav.data.navtitle }}</button></a><br>
 			{%- endfor -%}
-        </ul>
-    </div></nav>
+		</div>
+		
+    </div>
+
 
     <main>
-    	<div class="container">
 
-		<section class="section-secondary">
-  		<div class="row">
+    	<div class="uk-section-xsmall uk-section uk-section-primary uk-light">
+    	<div class="uk-container">
+
+        <div class="uk-grid-match uk-child-width-1-1@m" uk-grid>
+            <div>
+                <p><strong>Find hoodies by tags </strong> 
+                	<a href='/tags/low-end'><span class="uk-label">low-end</span></a>
+                	<a href='/tags/mid-tier'><span class="uk-label">mid-tier</span></a>
+                	<a href='/tags/high-end'><span class="uk-label">high-end</span></a> | 
+
+					<a href="/tags/under $50"><span class="uk-label">under $50</span></a>
+					<a href='/tags/$50-$100'><span class="uk-label">$50-$100</span></a>
+					<a href='/tags/$100-$200'><span class="uk-label">$100-$200</span></a>
+					<a href='/tags/over $200/'><span class="uk-label">over $200</span></a>
+                </p>
+            </div>
+        </div>
+    	</div>
+</div>
 
     		{{ layoutContent | safe }}
 
-  		</div>
-		</section>
-
-	</div>
 	</main>
 
-<footer></footer>
+
 		<!-- Current page: {{ page.url | url }} -->
 	</div>
 	</body>

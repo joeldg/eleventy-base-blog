@@ -12,14 +12,24 @@ navtitle: Home
 {% set postslist = posts %}
 {% include "postslist.njk" %}
 
-<ul class="pagination clearfix">
-	<li><a href='{{ pagination.previousPageLink }}'>< prev</a></li>
 
-	{% for i in range(0, 15) -%}
-		{%- if pagination.pageLinks[i] -%}
-  		<li><a href='{{ pagination.pageLinks[i] }}'>{{ i }}</a></li>
-  		{% endif %}
-	{%- endfor %}
+</div>
+<br>
+<div class="uk-section-xsmall uk-section uk-section-secondary uk-light">
+      <div class="uk-container">
+        <div class="uk-grid-match uk-child-width-1-1@m" uk-grid>
+            <div>
+                <p>
+  <ul class="uk-pagination">
+    <li><a href="{{ pagination.previousPageLink }}"><span uk-pagination-previous></span> PREV</a></li>
+      {% for i in range(0, 15) -%}
+        {%- if pagination.pageLinks[i] -%}
+        <li><a href='{{ pagination.pageLinks[i] }}'>{{ i }}</a></li>
+        {% endif %}
+      {%- endfor %}
+    <li><a href="{{ pagination.nextPageLink }}">NEXT <span uk-pagination-next></span></a></li>
+  </ul>            
 
-	<li><a href='{{ pagination.nextPageLink }}'>next > </a></li>
-</ul>
+            </div>
+        </div>
+      </div>

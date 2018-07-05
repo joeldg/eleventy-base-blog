@@ -1,9 +1,9 @@
 ---
 title: Real McCoy's full-zip
 tags:
-  - loopwheeled.cotton
+  - loopwheeled
   - japan
-  - $200+ 
+  - over $200
   - high-end 
   - full-zip
   - top-ten

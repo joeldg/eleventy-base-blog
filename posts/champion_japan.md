@@ -1,7 +1,7 @@
 ---
 title: Champion Japan
 tags:
-  - french-terry
+  - terry
   - japan
   - $50-$100
   - low-end 

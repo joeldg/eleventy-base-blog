@@ -1,7 +1,7 @@
 ---
 title: Joe McCoy full-zip
 tags:
-  - loopwheeled.cotton
+  - loopwheeled
   - japan
   - $100-$200 
   - high-end 

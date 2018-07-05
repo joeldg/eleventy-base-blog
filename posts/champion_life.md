@@ -1,7 +1,7 @@
 ---
 title: Champion Life
 tags:
-  - fleece.cotton
+  - fleece
   - canada
   - $50-$100
   - low-end 

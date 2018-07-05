@@ -1,9 +1,9 @@
 ---
 title: Our legacy
 tags:
-  - fleece.cotton
+  - fleece
   - sweden
-  - $200+
+  - over $200
   - mid-tier 
   - full-zip
 layout: layouts/post.njk

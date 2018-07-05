@@ -1,7 +1,7 @@
 ---
 title: Norse Projects Ketel
 tags:
-  - loopback.cotton
+  - loopback
   - denmark
   - $100-$200
   - mid-tier 

@@ -1,7 +1,7 @@
 ---
 title: Sunspel loopback zip
 tags:
-  - loopback.cotton
+  - loopback
   - england
   - $100-$200 
   - mid-tier 

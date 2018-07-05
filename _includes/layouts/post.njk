@@ -7,20 +7,23 @@ filter:
     - post
     - posts
 ---
-{% for tag in tags %}
-	{%- if tag != "nav" -%}
-  		<a href="/tags/{{ tag }}" class="tag">{{ tag }}</a>
-  	{% endif %}
-{% endfor %}
 
+<div class="uk-section uk-section-default">
+    <div class="uk-container">
 
-<div class=col>
-	<h1>{{ title }}</h1>
-</div>
+<h1>{{ title }}</h1>
 
 {{ layoutContent | safe }}
 
-<div class=col>
-<p><a href="{{ '/' | url }}">← Home</a></p>
-</div>
 
+<p><a href="{{ '/' | url }}">← Home</a></p>
+
+
+{% for tag in tags %}
+	{%- if tag != "nav" -%}
+  		<a href="/tags/{{ tag }}"><button class="uk-button uk-button-default uk-button-small">{{ tag }}</button></a>
+  	{% endif %}
+{% endfor %}
+
+	</div>
+</div>

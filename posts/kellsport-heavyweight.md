@@ -1,7 +1,7 @@
 ---
 title: Kellsport heavyweight
 tags:
-  - fleece.cotton
+  - fleece
   - usa
   - $50-$100
   - mid-tier 

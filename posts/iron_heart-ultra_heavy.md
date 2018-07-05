@@ -1,9 +1,9 @@
 ---
 title: Iron Heart Ultra Heavy
 tags:
-  - loopwheeled.cotton
+  - loopwheeled
   - japan
-  - $200+ 
+  - over $200
   - high-end 
   - full-zip
 layout: layouts/post.njk

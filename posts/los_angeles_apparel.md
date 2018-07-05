@@ -1,7 +1,7 @@
 ---
 title: Los Angeles apparel 14oz
 tags:
-  - fleece.cotton
+  - fleece
   - usa
   - $50-$100
   - low-end

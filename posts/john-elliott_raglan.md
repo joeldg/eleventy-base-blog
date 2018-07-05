@@ -1,9 +1,9 @@
 ---
 title: John Elliott Raglan
 tags:
-  - loopback.cotton
+  - loopback
   - usa
-  - $200+ 
+  - over $200
   - mid-tier 
   - full-zip
   - raglan

@@ -7,6 +7,7 @@ navtitle: About
 templateClass: tmpl-post
 ---
 <div class="col col-sm-8">   
+<span class="uk-padding uk-text-small uk-text-bottom">Mostly no affiliate links, this site isn't about making money, it's about hoodies.</span>
 
 <p>
 <strong>Are people really so into hoodies they would pay more than $200 for a classic gray one?</strong>
@@ -24,7 +25,7 @@ The thread has not really been updated and some of the links are out of date. Al
 <p>
     As a hoodie affectionado, I currently have about thirty hoodies and during a recent move I given away nearly twenty (yes, I had almost fifty hoodies). I have paid everything from $10 to over $200 for a hoodie.
 
-    I have multiple hoodies that are no longer for sale.
+    I have multiple hoodies that are no longer available for sale now.
 </p>
 
 <p>
@@ -49,7 +50,7 @@ The <a href='/toplists/'>top five</a> low end hoodies are the heaviest fabric of
 <strong>Typically over $200</strong>: These need to be loopwheeled cotton which has a specific feel and weight that makes these the best of the best. Loopwheeled cotton is all done on vintage machines which are only in two places in the world, Japan and Germany. These are the sweatshirts that make women hot and guys jealous. They are almost always sold out and you are probably going to have to order one of them from Japan. You want these and when you wear them, everyone else wants them too. 
 </p>    
 
-<p>This site is built and hosted using <a href="https://mustard-ui.com/docs/typography/">mustard UI</a>, <a href="https://www.11ty.io/">eleventy</a>, and <a href="https://www.netlify.com/">netlify</a></p>
+<p>This site is built and hosted using <a href="https://getuikit.com">UIkit</a>, <a href="https://www.11ty.io/">eleventy</a>, and <a href="https://www.netlify.com/">netlify</a></p>
 
 
 
