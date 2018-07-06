@@ -19,6 +19,12 @@ module.exports = function(eleventyConfig) {
     });
   });
 
+ eleventyConfig.addCollection("myCustomSort", function(collection) {
+    return collection.getAll().sort(function(a, b) {
+      return b.inputPath - a.inputPath;
+    });
+  });
+
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
 
