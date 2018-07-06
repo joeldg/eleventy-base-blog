@@ -10,9 +10,10 @@ templateClass: tmpl-post
 
 <h2>Did I miss one????</h2>
 
-<p>I will LOVE you if you submit a high-tier or mid-tier hoodie that I don't have!
+<p>I will LOVE you if you submit a high-tier or mid-tier hoodie that I don't have! (also if online stores like 'Buck Mason' bring back full-zip hoodies)
 
 Add your email here and please post a link to the hoodie.
+
 
 <i>NOTE 1: There are millions of hoodies out there, I am mostly interested in high-end (>$100) and even some mid-tier (>$50) full-zip hoodies (with hoods, not regular sweatshirts).
 
