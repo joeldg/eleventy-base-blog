@@ -7,6 +7,8 @@ tags:
   - mid-tier 
   - full-zip
   - 2-way-zip
+  - 16oz
+  - 300gsm
 layout: layouts/post.njk
 img: todd-snyder_champion.jpg
 price: 178

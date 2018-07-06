@@ -3,6 +3,18 @@ loopback.cotton
 french-terry
 fleece.cotton
 
+- 26oz
+- 23oz
+- 18oz
+- 14oz
+- 13oz
+- 12oz
+- 10oz
+
+- 100gsm
+- 200gsm
+- 300gsm
+
 raglan
 
 low-end
@@ -15,10 +27,10 @@ japan
 german
 england
 
-<$50
+under $50
 $50-$100
 $100-$200
-$200+
+over $200
 
 full-zip
 half-zip

@@ -6,6 +6,8 @@ tags:
   - $50-$100
   - low-end 
   - full-zip
+  - 12oz
+  - 200gsm
 layout: layouts/post.njk
 img: champion_life.png
 price: 60

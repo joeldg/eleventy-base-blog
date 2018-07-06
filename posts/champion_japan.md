@@ -6,6 +6,8 @@ tags:
   - $50-$100
   - low-end 
   - full-zip
+  - 100gsm
+  - 10oz
 layout: layouts/post.njk
 img: champion_japan.png
 price: 90

@@ -7,6 +7,8 @@ tags:
   - low-end
   - full-zip
   - 2-way-zip
+  - 10oz
+  - 100gsm
 layout: layouts/post.njk
 img: uniqlo.jpg
 price: 30

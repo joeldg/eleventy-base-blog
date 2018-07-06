@@ -6,6 +6,8 @@ tags:
   - over $200
   - high-end 
   - full-zip
+  - 13oz
+  - 200gsm
 layout: layouts/post.njk
 img: merz-schwanen-01.jpg
 price: 233

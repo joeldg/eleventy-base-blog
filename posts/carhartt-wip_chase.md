@@ -7,6 +7,8 @@ tags:
   - mid-tier 
   - full-zip
   - raglan
+  - 13oz
+  - 200gsm
 layout: layouts/post.njk
 img: carhartt-wip_chase.jpg
 price: 125

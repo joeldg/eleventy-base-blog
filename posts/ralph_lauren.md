@@ -6,6 +6,8 @@ tags:
   - $50-$100
   - low-end
   - full-zip
+  - 13oz
+  - 200gsm
 layout: layouts/post.njk
 img: ralph_lauren.webp
 price: 98

@@ -7,6 +7,9 @@ tags:
   - mid-tier 
   - full-zip
   - 2-way-zip
+  - raglan
+  - 13oz
+  - 200gsm
 layout: layouts/post.njk
 img: regningchamp.jpg
 price: 160

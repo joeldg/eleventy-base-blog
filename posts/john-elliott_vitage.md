@@ -7,6 +7,8 @@ tags:
   - mid-tier 
   - full-zip
   - raglan
+  - 200gsm
+  - 12oz
 layout: layouts/post.njk
 img: john_elliott-vintage_hoodie.jpg
 price: 198

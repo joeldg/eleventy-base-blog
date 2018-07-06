@@ -10,11 +10,11 @@ templateClass: tmpl-post
 <div class='col'><a href="/tags/" class='tags' size='16'><strong>Ounce ratings (10oz, 8oz, 13oz)</strong></a>
 <p>This is a fabric weight per square yard. Saying that 16oz=1 imperial pound, and each hoodie takes two to three yards of fabric (depending on size) then a lightweight hoodie will come in around 1lb and some of the heavier ones will come in closer to 3lbs
 
-Commonly you will see these as '300 weight fleece'     
+Commonly you will see these as on what is called the Polartec scale which equates to Grams per Square Meter (GSM).   
 
-* 100 lightweight/microfleece 200-240 7oz TO 8.5
-* 200 medium/regular weight  320-380 11oz TO 13.5
-* 300-400+ heavy weight 400+  14oz TO 17
+* 100 = 9.5 oz per linear yard
+* 200 = 12.5 oz per linear yard
+* 300 = 16 oz per linear yard
 
 </p></div><br>
 

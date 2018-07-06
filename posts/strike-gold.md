@@ -6,6 +6,8 @@ tags:
   - $100-$200
   - high-end 
   - full-zip
+  - 16oz
+  - 200gsm
 layout: layouts/post.njk
 img: strike-gold.jpg
 price: 178

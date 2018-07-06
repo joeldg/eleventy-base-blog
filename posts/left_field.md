@@ -6,6 +6,9 @@ tags:
   - $100-$200
   - mid-tier
   - full-zip
+  - raglan
+  - 18oz
+  - 300gsm
 layout: layouts/post.njk
 img: left_field.jpg
 price: 154

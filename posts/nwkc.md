@@ -3,10 +3,13 @@ title: Northwest knitting company
 tags:
   - fleece
   - usa
-  - $50-$100
+  - $100-$200
   - mid-tier
   - full-zip
   - 2-way-zip
+  - raglan
+  - 13oz
+  - 200gsm
 layout: layouts/post.njk
 img: nwkc.jpg
 price: 172

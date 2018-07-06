@@ -7,6 +7,8 @@ tags:
   - high-end 
   - full-zip
   - top-ten
+  - 13oz
+  - 200gsm
 layout: layouts/post.njk
 img: real_mccoys02.jpg
 price: 230

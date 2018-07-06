@@ -6,6 +6,8 @@ tags:
   - $50-$100
   - low-end
   - full-zip
+  - 14oz
+  - 200gsm
 layout: layouts/post.njk
 img: la-apparel-14oz.jpg
 price: 65

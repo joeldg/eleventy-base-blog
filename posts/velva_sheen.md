@@ -6,6 +6,8 @@ tags:
   - $100-$200
   - mid-tier
   - full-zip
+  - 14oz
+  - 200gsm
 layout: layouts/post.njk
 img: velva_sheen.webp
 price: 125

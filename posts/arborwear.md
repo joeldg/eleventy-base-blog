@@ -6,7 +6,8 @@ tags:
   - $50-$100
   - low-end 
   - full-zip
-  - warm
+  - 26oz
+  - 300gsm
 layout: layouts/post.njk
 img: arborwear-double-thick.jpg
 price: 99

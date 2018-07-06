@@ -6,6 +6,8 @@ tags:
   - $100-$200
   - low-end
   - full-zip
+  - 13oz
+  - 200gsm
 layout: layouts/post.njk
 img: saturdaysnyc.jpg
 price: 108

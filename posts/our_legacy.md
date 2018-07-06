@@ -6,6 +6,9 @@ tags:
   - over $200
   - mid-tier 
   - full-zip
+  - raglan
+  - 13oz
+  - 200gsm
 layout: layouts/post.njk
 img: our_legacy.jpg
 price: 279

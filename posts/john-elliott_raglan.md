@@ -7,6 +7,8 @@ tags:
   - mid-tier 
   - full-zip
   - raglan
+  - 200gsm
+  - 12oz
 layout: layouts/post.njk
 img: john_elliott_raglan.jpg
 price: 295

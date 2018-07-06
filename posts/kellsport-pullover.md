@@ -7,6 +7,8 @@ tags:
   - mid-tier 
   - quarter-zip
   - pullover
+  - 300gsm
+  - 18oz
 layout: layouts/post.njk
 img: kellsport02.jpg
 price: 85
@@ -20,6 +22,8 @@ Fabric:  95% cotton / 5% poly.    100% cotton sweatshirt face (outer shell).   T
 
 Description: 
 Very heavyweight reverse-weave hooded 1/4 zip sweatshirt. The hood is a full cut to completely cover the head. We use a very heavy duty nylon zipper that will last for many years.  These are like the old college sweatshirts from years ago. Heavy duty rugged sweatshirt with stretch gusset panels on the sides. Long and comfortable cuffs, neck and waistband.  These shirts will shrink about 10% on the 1st wash and dry only.  The cotton will compact and the shirt gets even thicker (the cotton has to go somewhere).
+
+Kellsport 18 oz. sweatshirts are mens sizes. They are a full generous cut.  No need to upsize.  Smaller women and kids can generally wear the smaller sizes with no problem. Sweatshirts can be exchanged for size, or returned if not as expected.  It is sometimes difficult to judge a full cut sweatshirt from a size chart.  Sweatshirts are not "fitted" like a regular dress shirt or sport jacket.  We have included some size examples from actual people in our factory based on height / weight.  And of course, it all depends on how you like the sweatshirt to fit. Some like it snug, while others prefer the loose and baggy feel.
 
 There is also a no-hood version with a "Louie collar" which looks interesting.
 <p>

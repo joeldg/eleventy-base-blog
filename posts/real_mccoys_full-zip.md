@@ -6,6 +6,8 @@ tags:
   - $100-$200 
   - high-end 
   - full-zip
+  - 10oz
+  - 100gsm
 layout: layouts/post.njk
 img: real_mccoys01.jpg
 price: 183

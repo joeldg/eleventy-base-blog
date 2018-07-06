@@ -6,6 +6,8 @@ tags:
   - over $200
   - high-end 
   - full-zip
+  - 200gsm
+  - 14oz
 layout: layouts/post.njk
 img: iron_heart_ultra_heavy.jpg
 price: 295

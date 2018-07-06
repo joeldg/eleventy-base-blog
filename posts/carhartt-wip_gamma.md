@@ -6,6 +6,8 @@ tags:
   - $100-$200 
   - mid-tier
   - pullover
+  - 200gsm
+  - 13oz
 layout: layouts/post.njk
 img: carhartt-wip_gamma.jpg
 price: 129

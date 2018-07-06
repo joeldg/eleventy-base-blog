@@ -6,6 +6,8 @@ tags:
   - $50-$100
   - low-end 
   - full-zip
+  - 200gsm
+  - 12oz
 layout: layouts/post.njk
 img: goodwear.jpg
 price: 89

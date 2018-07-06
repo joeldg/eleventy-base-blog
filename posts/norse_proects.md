@@ -6,6 +6,8 @@ tags:
   - $100-$200
   - mid-tier 
   - full-zip
+  - 13oz
+  - 200gsm
 layout: layouts/post.njk
 img: norse_projects.jpg
 price: 144

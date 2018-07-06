@@ -6,6 +6,9 @@ tags:
   - over $200
   - high-end 
   - full-zip
+  - raglan
+  - 13oz
+  - 200gsm
 layout: layouts/post.njk
 img: orslow.jpg
 price: 325

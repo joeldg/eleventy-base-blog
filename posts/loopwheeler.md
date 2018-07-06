@@ -7,6 +7,8 @@ tags:
   - high-end 
   - full-zip
   - 2-way-zip
+  - 13oz
+  - 200gsm
 layout: layouts/post.njk
 img: loopwheeler.jpg
 price: 185

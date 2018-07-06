@@ -10,9 +10,13 @@ templateClass: tmpl-post
 
 <p>
 
-### Best overall hoodie under $100 (deal)  
+### Under 100
+#### Best overall hoodie under $100 (deal)  
 
-1. <a href="/posts/everlane/">Everlane classic</a> - These are easily $120 hoodies and they have a "Choose what you pay" model in the online shop, the lowest-option is $65. These hoodies have <a href="http://www.businessinsider.com/best-hoodie-zip-up-sweatshirt-for-men-everlane-2016-4">topped</a> <a href="https://www.gq.com/story/daily-endorsement-everlane-french-terry-hoodie">multiple</a> 'best hoodie under $100' articles and lists.
+1. <a href="/posts/everlane/">Everlane classic</a> - These are $120 hoodies at $65, they have a "Choose what you pay" model in the online shop for some of the other items but not this one. These hoodies have <a href="http://www.businessinsider.com/best-hoodie-zip-up-sweatshirt-for-men-everlane-2016-4">topped</a> <a href="https://www.gq.com/story/daily-endorsement-everlane-french-terry-hoodie">multiple</a> 'best hoodie under $100' articles and lists.
+2. <a href='/posts/flint-and-tinder/'>Flint and Tinder 10y</a> - cutting it close at $98, these are worth it.
+3. <a href='/posts/kellsport-heavyweight/'>Kellsport 18oz Heavyweight</a> -  heavy weight.
+
 
 
 ### Top 5 low-end

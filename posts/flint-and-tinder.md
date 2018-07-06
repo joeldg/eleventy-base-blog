@@ -6,6 +6,8 @@ tags:
   - $50-$100
   - mid-tier 
   - full-zip
+  - 300gsm
+  - 23oz
 layout: layouts/post.njk
 img: flint-and-tinder_10-year.jpg
 price: 98
@@ -19,7 +21,7 @@ brand_link: https://huckberry.com/flint-and-tinder
 <blockquote>
 <strong>H.H. note:</strong><i> From a kickstarter, this heavyweight hoodie came to the world.
 
-The description below (from their site) lists the fabric as 23 oz fleece, which I believe is a typo and should say 13 oz fleece which is borderline heavy. Or perhaps that the whole thing is 23oz. I know it's not 23oz/yard fleece because if it was true 23oz fleece the hoodie would weight in at somewhere over 6lbs and would be suitable for the arctic circle.
+The description below (from their site) lists the fabric as 23 oz fleece, which would be very heavy indeed, it would make this the runner up for heaviest hoodie.
 
 Because of a few extras like the media pocket, this hoodie edges out the American Giant to enter the mid-tier
 </i>

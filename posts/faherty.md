@@ -7,6 +7,8 @@ tags:
   - mid-tier
   - full-zip
   - 2-way-zip
+  - 200gsm
+  - 12oz
 layout: layouts/post.njk
 img: faherty.jpg
 price: 148
