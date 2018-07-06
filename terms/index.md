@@ -52,6 +52,13 @@ In order to get fleece fuzzy a large roller with either sandpaper or wire brushe
 
 Ring-spun cotton, on the other hand, is completely different. Ring-spun yarn is made by twisting and thinning the cotton strands to make a very fine, strong, soft rope of cotton fibers. Ring-spun cotton t-shirts are more durable and last longer than their regular counterparts, but will also be more expensive, too.</p></div><br>
 
+<div class='col'><a href="/tags/" class='tags' size='16'><strong>Fleece-Back</strong></a>
+To create fleece-back fabrics, the underside of a knitted fabric is brushed with sandpaper or wire brushes until the yarn becomes soft and fleecy. This technique can be applied to a large range of knitted cotton fabrics and is utilized for its velvety hand feel.</p></div><br>
+
+<div class='col'><a href="/tags/" class='tags' size='16'><strong>Double-Face</strong></a>
+This material is made up of two interlocking knitted fabrics. A double-knitted jersey, for example, is made up of two single jerseys knitted together so that both the underside and outside of the fabric are flat. Domestically, the Northwestern Knitting Co. has a proprietary knitted fabric made of two distinct layers, while internationally, brands like Norse Projects utilize this material</p></div><br>
+
+
 <div class='col'><a href="/tags/" class='tags' size='16'><strong>raglan</strong></a>
 <p>Style of shirt where the fabric continues in one piece up to the neck of a garment, without a shoulder seam. These are often referred to as baseball shirts where the sleeves from the neck down are a different color.</p></div><br>
 
