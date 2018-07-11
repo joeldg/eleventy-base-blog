@@ -10,6 +10,7 @@ fleece.cotton
 - 13oz
 - 12oz
 - 10oz
+- 6oz
 
 - 100gsm
 - 200gsm
